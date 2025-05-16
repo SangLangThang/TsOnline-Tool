@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="p-4">
+    <div className="w-full p-3">
       <Account></Account>
     </div>
   );
